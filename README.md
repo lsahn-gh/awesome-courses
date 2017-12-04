@@ -6,13 +6,13 @@
 - :dollar: 유료
 
 ## 일반
-- 내용을 이해하기 쉽게 설명하고 지루하지 않습니다.  
-- pdf나 ppt와 같은 강의 파일이 제공됩니다.
-- 영상에 강사/교수의 강의 파일(프레젠테이션)과 동시에 강의 영상이 재생됩니다.
+#### 필수
 - 완전한 강의 영상이 제공됩니다.
+- 내용을 이해하기 쉽게 설명합니다.
 
-**한국어**
-- 한국어로 설명이 이루어집니다.
+#### 옵션
+- :book: pdf나 ppt와 같은 강의 파일이 제공됩니다.
+- :+1: 영상에 강사/교수의 강의 파일(프레젠테이션)과 동시에 강의 영상이 재생됩니다.
 
 **영어**
 - 미국 또는 영국 발음입니다.
@@ -24,5 +24,5 @@
 
 
 ## Spring Framework
-- [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial) :us: :dollar:
+- [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial) :us: :dollar: :book:
 
