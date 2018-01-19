@@ -21,9 +21,20 @@
 
 ## 목차
 - [Spring Framework](#spring-framework)
+- [Operating System](#operating-system)
+- [Network](#network)
+- [Algorithms](#algorithms)
 
 
 
 ## Spring Framework
 - [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial) :us: :dollar: :floppy_disk: :page_facing_up:
 
+## Operating System
+- [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1046323) - 이화여자대학교, 반효경 교수님 :kr: :video_camera:
+
+## Network
+- [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1046412) - 이화여자대학교, 이미정 교수님 :kr: :video_camera:
+
+## Algorithms
+- [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ea%b0%95%ec%a2%8c/) - Inflearn, 권오흠 교수님 :kr: :video_camera:
