@@ -20,21 +20,32 @@
 - 천천히 설명합니다.
 
 ## 목차
-- [Spring Framework](#spring-framework)
+- [Computer Architecture](#computer-architecture)
 - [Operating System](#operating-system)
 - [Network](#network)
 - [Algorithms](#algorithms)
+- [Java](#java)
+  - [Backend](#java-backend)
 
 
 
-## Spring Framework
-- [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial) :us: :dollar: :floppy_disk: :page_facing_up:
+## Computer Architecture
+- [Computer Architecture](http://olc.kr/course/course_online_view.jsp?id=240) - 서울대학교, 민상렬 교수님 :kr: :floppy_disk:
+  - 도서: 컴퓨터 구조 및 설계 하드웨어/소프트웨어 인터페이스, David A. Patterson, John L. Hennessy.
 
 ## Operating System
 - [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1046323) - 이화여자대학교, 반효경 교수님 :kr: :video_camera:
+- [운영체제의 기초](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=623#class_room-tab) - 서울대학교, 홍성수 교수님 :kr: 
+- [마이크로 커널 운영체제](http://olc.kr/course/course_online_view.jsp?id=462&cid=519) - 상명대학교, 신동하 교수님 :kr: :floppy_disk:
 
 ## Network
 - [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1046412) - 이화여자대학교, 이미정 교수님 :kr: :video_camera:
 
 ## Algorithms
-- [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ea%b0%95%ec%a2%8c/) - Inflearn, 권오흠 교수님 :kr: :video_camera:
+- [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ea%b0%95%ec%a2%8c/) - 부경대학교, 권오흠 교수님 :kr: :video_camera:
+
+## Java
+
+### Java Backend
+- [JSP, Servlets and JDBC for Beginners: Build a Database](https://www.udemy.com/jsp-tutorial/learn/v4/) :us: :dollar: :floppy_disk: :page_facing_up:
+- [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial) :us: :dollar: :floppy_disk: :page_facing_up:
