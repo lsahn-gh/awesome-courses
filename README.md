@@ -5,6 +5,9 @@
 - :us: :uk: 영어
 - :dollar: 유료
 
+## 참여하기
+현재는 로그인없이 강의 시청이 가능한 KOCW에 한해서만 Pull Request를 받습니다.
+
 ## 일반
 #### 필수
 - 완전한 강의 영상이 제공됩니다.
@@ -43,6 +46,7 @@
 
 ## Algorithms
 - [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ea%b0%95%ec%a2%8c/) - 부경대학교, 권오흠 교수님 :kr: :video_camera:
+- [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - MIT 6.006, Fall 2011 :us:
 
 ## Java
 
