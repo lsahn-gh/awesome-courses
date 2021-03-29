@@ -5,9 +5,6 @@
 - :us: :uk: 영어
 - :dollar: 유료
 
-## 참여하기
-현재는 로그인없이 강의 시청이 가능한 KOCW에 한해서만 Pull Request를 받습니다.
-
 ## 일반
 #### 필수
 - 완전한 강의 영상이 제공됩니다.
@@ -27,9 +24,6 @@
 - [Operating System](#operating-system)
 - [Network](#network)
 - [Algorithms](#algorithms)
-- [Java](#java)
-  - [Backend](#java-backend)
-
 
 
 ## Computer Architecture
@@ -49,8 +43,3 @@
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - MIT 6.006, Fall 2011 :us: :floppy_disk: :page_facing_up:
   - [Youtube Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - Extra Videos
 
-## Java
-
-### Java Backend
-- [JSP, Servlets and JDBC for Beginners: Build a Database](https://www.udemy.com/jsp-tutorial/learn/v4/) :us: :dollar: :floppy_disk: :page_facing_up:
-- [Spring & Hibernate for Beginners](https://www.udemy.com/spring-hibernate-tutorial) :us: :dollar: :floppy_disk: :page_facing_up:
