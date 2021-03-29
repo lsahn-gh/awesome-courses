@@ -42,4 +42,5 @@
 - [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ea%b0%95%ec%a2%8c/) - 부경대학교, 권오흠 교수님 :kr: :video_camera:
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - MIT 6.006, Fall 2011 :us: :floppy_disk: :page_facing_up:
   - [Youtube Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - Extra Videos
+- [Advanced Algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) - Harvard CS224, Prof. Jelani Nelson, Fall 2014 :us: :floppy_disk:
 
