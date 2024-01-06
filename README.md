@@ -32,7 +32,6 @@
 
 ## Operating System
 - [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1046323) - 이화여자대학교, 반효경 교수님 :kr: :video_camera:
-- [운영체제의 기초](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=623#class_room-tab) - 서울대학교, 홍성수 교수님 :kr: 
 - [마이크로 커널 운영체제](http://olc.kr/course/course_online_view.jsp?id=462&cid=519) - 상명대학교, 신동하 교수님 :kr: :floppy_disk:
 
 ## Network
